@@ -1,2 +1,2 @@
 # tf-local-variance-map
-A Tensorflow fully differentiable implementation of the local variance map.
+A fully differentiable, Tensorflow implementation of the local variance map.
